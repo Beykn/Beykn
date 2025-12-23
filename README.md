@@ -12,3 +12,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beykn&show_icons=true&locale=en" alt="beykn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beykn&" alt="beykn" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Beykn/Beykn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Beykn/Beykn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Beykn/Beykn/output/pacman-contribution-graph.svg">
+</picture>
