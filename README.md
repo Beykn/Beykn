@@ -13,11 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beykn&" alt="beykn" /></p>
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Beykn/Beykn/main/output/pacman-contribution-graph.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Beykn/Beykn/main/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Beykn/Beykn/main/output/pacman-contribution-graph.svg">
-</picture>
