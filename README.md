@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beykn&show_icons=true&locale=en&layout=compact" alt="Beykn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beykn&show_icons=true&locale=en" alt="beykn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beykn&show_icons=true&locale=en" alt="Beykn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beykn&" alt="beykn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Beykn&" alt="Beykn" /></p>
 
